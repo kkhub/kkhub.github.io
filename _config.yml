@@ -3,6 +3,6 @@ pygments: true
 markdown: kramdown
 url: http://kkhub.github.io
 title: KK
-tagline: My opionions
-description: My awesome new site
+tagline: My opinions
+description: 
 paginate: 5
